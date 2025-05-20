@@ -46,6 +46,6 @@ issued:
 pdf: https://raw.githubusercontent.com/mlresearch/v290/main/assets/nieto-barba25a/nieto-barba25a.pdf
 extras:
 - label: Supplementary PDF
-  link: https://raw.githubusercontent.com/mlresearch/v290/main/assets/assets/nieto-barba25a/nieto-barba25a-supp.pdf
+  link: https://raw.githubusercontent.com/mlresearch/v290/main/assets/nieto-barba25a/nieto-barba25a-supp.pdf
 # Format based on Martin Fenner's citeproc: https://blog.front-matter.io/posts/citeproc-yaml-for-bibliographies/
 ---
