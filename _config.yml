@@ -1,0 +1,101 @@
+---
+booktitle: 'Proceedings of the Fourteenth International Symposium on Imprecise Probabilities:
+  Theories and Applications'
+shortname: ISIPTA
+year: '2025'
+volume: '290'
+start: &1 2025-07-15
+end: 2025-07-18
+published: 2025-05-20
+conference_number: '14'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: ISIPTA-2025
+month: 0
+cycles: false
+bibtex_editor: Destercke, S\'ebastien and Erreygers, Alexander and Nendel, Max and
+  Riedel, Frank and Troffaes, Matthias C. M.
+editor:
+- given: Sébastien
+  family: Destercke
+- given: Alexander
+  family: Erreygers
+- given: Max
+  family: Nendel
+- given: Frank
+  family: Riedel
+- given: Matthias C. M.
+  family: Troffaes
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Fourteenth International Symposium on Imprecise Probabilities: Theories and Applications
+    Held in Zentrum f\"ur interdisziplin\"are Forschung, Bielefeld, Germany on 15-18 July 2025
+
+  Published as Volume 290 by the Proceedings of Machine Learning Research on 20 May 2025.
+
+  Volume Edited by:
+    Sébastien Destercke
+    Alexander Erreygers
+    Max Nendel
+    Frank Riedel
+    Matthias C. M. Troffaes
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 15--18 Jul
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v290"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v290
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v290
+email: ''
+conference:
+  name: 'International Symposium on Imprecise Probabilities: Theories and Applications'
+  url: https://isipta25.sipta.org/
+  location: Zentrum für interdisziplinäre Forschung, Bielefeld, Germany
+  dates:
+  - *1
+  - 2025-07-16
+  - 2025-07-17
+  - 2025-07-18
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+link_visibility:
+  openreview: true
+  pdf: true
+  supplementary: true
+  software: true
+  video: true
+  arxiv: true
+  doi: true
+  website: true
+orig_bibfile: "/Users/neil/mlresearch/v290/isipta2025.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v290/isipta2025.bib
