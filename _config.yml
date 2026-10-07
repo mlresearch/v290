@@ -4,7 +4,7 @@ booktitle: 'Proceedings of the Fourteenth International Symposium on Imprecise P
 shortname: ISIPTA
 year: '2025'
 volume: '290'
-start: &1 2025-07-15
+start: 2025-07-15
 end: 2025-07-18
 published: 2025-05-20
 conference_number: '14'
@@ -80,7 +80,7 @@ conference:
   url: https://isipta25.sipta.org/
   location: Zentrum für interdisziplinäre Forschung, Bielefeld, Germany
   dates:
-  - *1
+  - 2025-07-15
   - 2025-07-16
   - 2025-07-17
   - 2025-07-18
